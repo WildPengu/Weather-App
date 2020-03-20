@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+}
+
+.container p {
+  margin-left: 10px;
+}
+
+.hot {
+  background-color: tomato;
+}
+
+.cold {
+  background-color: aquamarine;
+}
